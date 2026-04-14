@@ -6,7 +6,7 @@ const siteUrl = "https://www.instanttyres.co.uk";
 export const metadata = {
   title: "Mobile Tyre Fitting Manchester | 24/7 Emergency Service | Call Now",
   description:
-    "24/7 Mobile Tyre Fitting in Manchester & outskirts. Emergency roadside assistance, ETA from 20 mins. Brand new tyres, TPMS & puncture repair. Call 0330 043 8437 now.",
+    "24/7 Mobile Tyre Fitting in Manchester & outskirts. Emergency roadside assistance, ETA from 20 mins. Brand new tyres, TPMS & puncture repair. Call 0752 389 0308 now.",
 };
 
 export default function RootLayout({ children }) {
