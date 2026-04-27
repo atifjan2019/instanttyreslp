@@ -3,8 +3,8 @@
 import React, { useState } from 'react';
 import Script from 'next/script';
 
-const callHref = 'tel:07523890308';
-const callDisplay = '0752 389 0308';
+const callHref = 'tel:01613997896';
+const callDisplay = '0161 399 7896';
 const whatsappHref = 'https://api.whatsapp.com/send?phone=447523890308&text=Need+Help%3F';
 
 export default function HomeBody({ titleKwd = "Mobile Tyre Fitting", locationName = "Manchester" }) {
